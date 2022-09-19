@@ -1,0 +1,110 @@
+body {
+  background: rgb(2, 0, 36);
+  background: rgb(196, 212, 221);
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+}
+.container > form {
+  width: 70%;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+}
+pre {
+  width: 70%;
+  color: #fff;
+  font-size: larger;
+}
+
+button {
+  background: hsl(57, 66%, 79%) !important;
+}
+p {
+  color: rgb(235, 180, 0);
+}
+
+.table_container{
+  background-color: white;
+  min-height: 40px;
+  margin: 0 3rem ;
+  border-radius: 5px;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th>span{
+  background-color: rgb(255, 203, 129);
+  border-radius: 8px;
+}
+
+th{
+  padding-right: 15px;
+  cursor: pointer;
+}
+
+td{
+  padding :2px;
+  max-width: 300px;
+}
+
+td>span{
+  color: black;
+  background-color: #eee;
+  font-size: 16px;
+  display: block;
+  padding-right: 10px;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+
+th>span{
+  font-size: 16px;
+  display: block;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
+.table_body,table{
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.delete{
+  background-color: rgb(255, 163, 163);
+  cursor: pointer;
+}
+
+.delete:hover{
+ background-color: rgb(255, 93, 93);
+}
+
+h2{
+  text-align: center;
+}
+
+::placeholder{
+  font-size: 14px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+label{
+  width:120px;
+  display: inline-block;
+  margin: 8px;
+  font-size: 16px;
+  font-weight: bold;
+}

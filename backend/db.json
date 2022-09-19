@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "lastname": "dfsf",
+      "firstname": "sdvsv",
+      "address": "dabfvhjbsf",
+      "email": "gsjrg@kf.jhf",
+      "dateofbirth": "2022-09-07",
+      "phonenumber": "6873669445"
+    },
+    {
+      "id": 3,
+      "lastname": "jhbdv ",
+      "firstname": "hjsjv",
+      "address": "hjhgiueiudtb",
+      "email": "jhf@jkf.kjnbdt",
+      "dateofbirth": "2022-09-06",
+      "phonenumber": "0861938788"
+    },
+    {
+      "id": 4,
+      "lastname": "S",
+      "firstname": "Manoj",
+      "address": "ghjgfj",
+      "email": "manojks.062001@gmail.com",
+      "dateofbirth": "2022-09-07",
+      "phonenumber": "8861938778"
+    },
+    {
+      "id": 5,
+      "lastname": "mdm",
+      "firstname": "hvbdfjd",
+      "address": "ghjgfj",
+      "email": "manojks.062001@gmail.com",
+      "dateofbirth": "2022-08-30",
+      "phonenumber": "0886193877"
+    }
+  ]
+}
